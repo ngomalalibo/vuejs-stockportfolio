@@ -1,18 +1,6 @@
 # vue-cli
 
+> A stock trading and portfolio management web application built using Vue.js and Firebase. Bootstrap and CSS Animation are used to style
 > A Vue.js project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## LIVE at https://uvejs-stockportfolio.herokuapp.com/
